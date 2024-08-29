@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://rishavchanda.io">
-        <img src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif" alt="MasterHead" style="height: 200px;width: 400px;">
+        <img src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif" alt="MasterHead" style="height: 300px;width: 600px;">
     </a>
 </div>
 <h1 align="center">Hi 👋, I'm Ajay Siva</h1>
